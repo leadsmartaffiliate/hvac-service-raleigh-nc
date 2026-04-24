@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hvac-service-raleigh-nc.netlify.app/sitemap.xml
